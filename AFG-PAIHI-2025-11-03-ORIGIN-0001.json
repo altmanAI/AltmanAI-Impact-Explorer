@@ -1,0 +1,22 @@
+{
+  "registry_id": "AFG-PAIHI-2025-11-03-ORIGIN-0001",
+  "title": "AltmanAI Origin Log v1.0",
+  "status": "MINTED",
+  "artifact_type": "pdf+json",
+  "created_local_datetime": "2025-11-03T08:47:00-05:00",
+  "created_utc_datetime": "2025-11-03T13:47:00Z",
+  "minted_local_datetime": "2025-11-03T09:20:00-05:00",
+  "minted_utc_datetime": "2025-11-03T14:20:00Z",
+  "participants": {
+    "human": "Blake Hunter Altman",
+    "ai": "ChatGPT (GLASSKEY-E456)"
+  },
+  "owner": "AltmanAI by Altman Family Group, LLC",
+  "summary": "Canonical origin statement for AltmanAI, capturing founding context, ethos, and Proof-of-Impact method.",
+  "artifact_sha256": "8285ed6dec6919b02dbe77f7212664a64f44da39808e5262f5a66d1ecc8b6b92",
+  "custody": {
+    "status": "FINALIZED",
+    "device": "iPhone 15 Pro Max (Face ID, self-attested)",
+    "notes": "Saved to iOS Files with Face ID presence."
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "registry_id": "AFG-PAIHI-2025-11-03-ORIGIN-0001",
+    "title": "AltmanAI Origin Log v1.0",
+    "status": "MINTED",
+    "artifact_type": "pdf+json",
+    "created_utc": "2025-11-03T13:00:00Z",
+    "minted_utc": "2025-11-03T14:00:00Z",
+    "description": "Canonical origin statement for AltmanAI, including founding date, ethos, and Proof-of-Impact anchor text.",
+    "owner": "AltmanAI by Altman Family Group, LLC",
+    "tags": [
+      "origin",
+      "ethos",
+      "paihi"
+    ]
+  },
+  {
+    "registry_id": "AFG-PAIHI-2025-11-06-AINET-CONST-0001",
+    "title": "AltmanAI x Human Constitution v1.0",
+    "status": "MINTED",
+    "artifact_type": "pdf+json",
+    "created_utc": "2025-11-06T15:00:00Z",
+    "minted_utc": "2025-11-06T16:00:00Z",
+    "description": "Constitution describing how AltmanAI systems must serve humans, including safety, escalation, and transparency principles.",
+    "owner": "AltmanAI by Altman Family Group, LLC",
+    "tags": [
+      "governance",
+      "safety",
+      "constitution"
+    ]
+  },
+  {
+    "registry_id": "AFG-PAIHI-2025-11-16-SOCIAL-IMPACT-0001",
+    "title": "AltmanAI Social Media Impact Pack v1.0",
+    "status": "MINTED",
+    "artifact_type": "content+json",
+    "created_utc": "2025-11-16T23:00:00Z",
+    "minted_utc": "2025-11-17T04:53:58Z",
+    "description": "Curated set of social posts describing AltmanAI's mission, AINet, PAIHI, and DailyPilot roadmap, minted under the PAIHI framework.",
+    "owner": "AltmanAI by Altman Family Group, LLC",
+    "tags": [
+      "communications",
+      "social",
+      "impact"
+    ]
+  }
+]
